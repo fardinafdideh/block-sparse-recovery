@@ -1,7 +1,7 @@
 # Companion code for the paper "A General Framework for Block-Sparse Recovery Conditions via Weighted Mixed and Operator Norms"
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fardinafdideh/block-sparse-recovery/blob/main/block_sparse_recovery.ipynb)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22128049.svg)](https://doi.org/10.5281/zenodo.22128049)
 
 **Authors:** Fardin Afdideh, Ronald Phlypo, Christian Jutten
 
